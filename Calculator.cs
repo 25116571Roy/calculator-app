@@ -2,5 +2,13 @@ class Calculator
 {
 	static void Main(string[] args)
 	{
+		int a = 10;
+		int b = 6;
+		
+	}
+	
+	static int penjumlahan(int a, int b)
+	{
+		return a + b;
 	}
 }
